@@ -1,0 +1,129 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-01-29 18:03+0100\n"
+"PO-Revision-Date: 2016-02-24 15:56+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: tmpl\n"
+"X-Poedit-SearchPath-1: class\n"
+
+#: class/perfectdashboard-admin-class.php:31
+#: class/perfectdashboard-admin-class.php:32
+msgid "Perfect Dashboard"
+msgstr "Perfect Dashboard"
+
+#: class/perfectdashboard-admin-class.php:116
+msgid "Well done!"
+msgstr "Well done!"
+
+#: class/perfectdashboard-admin-class.php:117
+msgid ""
+"You are just a step away from automating updates & backups on this website"
+msgstr ""
+"You are just a step away from automating updates & backups on this website"
+
+#: class/perfectdashboard-admin-class.php:119
+msgid "Click here to configure"
+msgstr "Click here to configure"
+
+#: tmpl/tmpl-admin.php:18
+msgid "Perfect Dashboard extension"
+msgstr "Perfect Dashboard extension"
+
+#: tmpl/tmpl-admin.php:22
+msgid "Close Settings"
+msgstr "Close Settings"
+
+#: tmpl/tmpl-admin.php:23 tmpl/tmpl-admin.php:24
+msgid "Settings"
+msgstr "Settings"
+
+#: tmpl/tmpl-admin.php:34
+msgid "This website has been successfully added to Perfect Dashboard."
+msgstr "This website has been successfully added to Perfect Dashboard."
+
+#: tmpl/tmpl-admin.php:38
+msgid ""
+"Go to %s to:"
+msgstr "Go to %s to:"
+
+#: tmpl/tmpl-admin.php:43
+msgid "Manage WordPress, Themes and Plugins updates"
+msgstr "Manage WordPress, Themes and Plugins updates"
+
+#: tmpl/tmpl-admin.php:46
+msgid "Verify Backups Automatically&nbsp;"
+msgstr "Testuj automatycznie Twoją witrynę, po każdej aktualizacji"
+
+#: tmpl/tmpl-admin.php:49
+msgid "Test and Validate Websites After Every Update Automatically&nbsp;"
+msgstr "Test and Validate Websites After Every Update Automatically&nbsp;"
+
+#: tmpl/tmpl-admin.php:54
+msgid "Click here to add your website again to Perfect&nbsp;Dashboard"
+msgstr "Click here to add your website again to Perfect&nbsp;Dashboard"
+
+#: tmpl/tmpl-admin.php:63
+msgid "Let Perfect Dashboard do all the backups & updates for you "
+msgstr "Let Perfect Dashboard do all the backups & updates for you "
+
+#: tmpl/tmpl-admin.php:64
+msgid "[for&nbsp;FREE]"
+msgstr "[for&nbsp;FREE]"
+
+#: tmpl/tmpl-admin.php:68
+msgid "The One Place You Will Ever Need to Manage All Websites Efficiently"
+msgstr "The One Place You Will Ever Need to Manage All Websites Efficiently"
+
+#: tmpl/tmpl-admin.php:71
+msgid "Test and Validate Websites After Every Update Automatically"
+msgstr "Test and Validate Websites After Every Update Automatically"
+
+#: tmpl/tmpl-admin.php:74
+msgid "Verify Backups Automatically"
+msgstr "Verify Backups Automatically"
+
+#: tmpl/tmpl-admin.php:80
+msgid "Click here to add your website to Perfect&nbsp;Dashboard"
+msgstr "Click here to add your website to Perfect&nbsp;Dashboard"
+
+#: tmpl/tmpl-admin.php:84
+msgid "Functional Basic version. Free forever."
+msgstr "Functional Basic version. Free forever."
+
+#: tmpl/tmpl-admin.php:85
+msgid "PRO features: 3 weeks for free."
+msgstr "PRO features: 3 weeks for free."
+
+#: tmpl/tmpl-admin.php:86
+msgid "No credit card required. Cancel anytime."
+msgstr "No credit card required. Cancel anytime."
+
+#: tmpl/tmpl-admin.php:114
+msgid "Secure key"
+msgstr "Secure key"
+
+#: tmpl/tmpl-admin.php:120
+msgid "Site offline"
+msgstr "Site offline"
+
+#: tmpl/tmpl-admin.php:124
+msgid "No"
+msgstr "No"
+
+#: tmpl/tmpl-admin.php:127
+msgid "Yes"
+msgstr "Yes"
+
+#: tmpl/tmpl-admin.php:137
+msgid "Save changes"
+msgstr "Save changes"

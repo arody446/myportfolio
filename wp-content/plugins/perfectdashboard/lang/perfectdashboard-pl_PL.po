@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-01-29 18:02+0100\n"
+"PO-Revision-Date: 2016-02-24 15:56+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: tmpl\n"
+"X-Poedit-SearchPath-1: class\n"
+
+#: class/perfectdashboard-admin-class.php:31
+#: class/perfectdashboard-admin-class.php:32
+msgid "Perfect Dashboard"
+msgstr "Perfect Dashboard"
+
+#: class/perfectdashboard-admin-class.php:116
+msgid "Well done!"
+msgstr "Brawo!"
+
+#: class/perfectdashboard-admin-class.php:117
+msgid ""
+"You are just a step away from automating updates & backups on this website"
+msgstr ""
+"Od automatycznych aktualizacji i kopii zapasowych dzieli Cię już tylko jeden "
+"krok"
+
+#: class/perfectdashboard-admin-class.php:119
+msgid "Click here to configure"
+msgstr "Kliknij tutaj aby skonfigurować"
+
+#: tmpl/tmpl-admin.php:18
+msgid "Perfect Dashboard extension"
+msgstr "Wtyczka Perfect Dashboard"
+
+#: tmpl/tmpl-admin.php:22
+msgid "Close Settings"
+msgstr "Zamknij ustawienia"
+
+#: tmpl/tmpl-admin.php:23 tmpl/tmpl-admin.php:24
+msgid "Settings"
+msgstr "Ustawienia"
+
+#: tmpl/tmpl-admin.php:34
+msgid "This website has been successfully added to Perfect Dashboard."
+msgstr "Ta witryna została pomyślnie dodana do systemu Perfect Dashboard."
+
+#: tmpl/tmpl-admin.php:38
+msgid ""
+"Go to %s to:"
+msgstr "Przejdź pod adres %s i:"
+
+#: tmpl/tmpl-admin.php:43
+msgid "Manage WordPress, Themes and Plugins updates"
+msgstr "Zarządzaj aktualizacjami WordPressa, motywów i wtyczek"
+
+# Niełamliwa spacja dodana aby obejść fakt, że ten sam tekst w języku angielskim musi zostać przetłumaczony w innej formie na język polski
+#: tmpl/tmpl-admin.php:46
+msgid "Verify Backups Automatically&nbsp;"
+msgstr "Wykonuj automatyczne kopie zapasowe z ich weryfikacją"
+
+#: tmpl/tmpl-admin.php:49
+msgid "Test and Validate Websites After Every Update Automatically&nbsp;"
+msgstr "Testuj automatycznie Twoją witrynę, po każdej aktualizacji"
+
+#: tmpl/tmpl-admin.php:54
+msgid "Click here to add your website again to Perfect&nbsp;Dashboard"
+msgstr ""
+"Kliknij tutaj aby ponownie dodać Twoją witrynę do Perfect&nbsp;Dashboard"
+
+#: tmpl/tmpl-admin.php:63
+msgid "Let Perfect Dashboard do all the backups & updates for you "
+msgstr ""
+"Niech Perfect Dashboard wykona wszystkie kopie zapasowe i aktualizacje za "
+"Ciebie"
+
+#: tmpl/tmpl-admin.php:64
+msgid "[for&nbsp;FREE]"
+msgstr "[za&nbsp;DARMO]"
+
+#: tmpl/tmpl-admin.php:68
+msgid "The One Place You Will Ever Need to Manage All Websites Efficiently"
+msgstr ""
+"Jedno miejsce, z którego możesz wydajnie zarządzać wszystkimi swoimi "
+"witrynami"
+
+#: tmpl/tmpl-admin.php:71
+msgid "Test and Validate Websites After Every Update Automatically"
+msgstr ""
+"Automatyczne testy Twojej witryny, przeprowadzane po każdej aktualizacji"
+
+#: tmpl/tmpl-admin.php:74
+msgid "Verify Backups Automatically"
+msgstr "Automatyczna weryfikacja kopii zapasowych"
+
+#: tmpl/tmpl-admin.php:80
+msgid "Click here to add your website to Perfect&nbsp;Dashboard"
+msgstr "Kliknij tutaj aby dodać swoją witrynę do Perfect&nbsp;Dashboard"
+
+#: tmpl/tmpl-admin.php:84
+msgid "Functional Basic version. Free forever."
+msgstr "Użyteczna wersja podstawowa. Za darmo, na zawsze."
+
+#: tmpl/tmpl-admin.php:85
+msgid "PRO features: 3 weeks for free."
+msgstr "Funkcje PRO: 3 tygodnie za darmo."
+
+#: tmpl/tmpl-admin.php:86
+msgid "No credit card required. Cancel anytime."
+msgstr "Bez karty kredytowej, zrezygnuj kiedy chcesz."
+
+#: tmpl/tmpl-admin.php:114
+msgid "Secure key"
+msgstr "Klucz"
+
+#: tmpl/tmpl-admin.php:120
+msgid "Site offline"
+msgstr "Wyłącz witrynę"
+
+#: tmpl/tmpl-admin.php:124
+msgid "No"
+msgstr "Nie"
+
+#: tmpl/tmpl-admin.php:127
+msgid "Yes"
+msgstr "Tak"
+
+#: tmpl/tmpl-admin.php:137
+msgid "Save changes"
+msgstr "Zapisz zmiany"

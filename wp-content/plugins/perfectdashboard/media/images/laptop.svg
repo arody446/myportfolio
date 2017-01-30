@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="663px" height="440px" viewBox="0 0 663 440" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15857) - http://www.bohemiancoding.com/sketch -->
+    <title>minimalMacbook</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.7 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+            <feGaussianBlur stdDeviation="12.5 0" in="SourceGraphic" result="blur"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="95.3611898%" id="linearGradient-2">
+            <stop stop-color="#000000" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="47.6243622%" x2="50%" y2="0%" id="linearGradient-3">
+            <stop stop-color="#000000" stop-opacity="0.0463654891" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.252490942" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-4" d="M74.5,0 L549.5,0 C559.282631,0 567.5,8.22189761 567.5,18 L567.5,335 C567.5,344.778102 567.439985,353 557.5,353 L67.5,353 C57.4340171,353 56.5,344.778102 56.5,335 L56.5,18 C56.5,8.22189761 64.7173694,0 74.5,0 L74.5,0 Z"></path>
+        <rect id="path-5" x="75.5" y="26" width="473" height="295"></rect>
+        <linearGradient x1="50%" y1="99.740912%" x2="50%" y2="0%" id="linearGradient-7">
+            <stop stop-color="#D0D0D0" offset="0%"></stop>
+            <stop stop-color="#E7E7E7" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="59.0212107%" x2="0%" y2="59.0212107%" id="linearGradient-8">
+            <stop stop-color="#000000" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="49.648972%"></stop>
+            <stop stop-color="#000000" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-9">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feGaussianBlur stdDeviation="0" in="shadowOffsetInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feComposite in="shadowBlurInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.210000008 0" in="shadowInnerInner1" type="matrix" result="shadowMatrixInner1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-10" x="0.5" y="347" width="625" height="2"></rect>
+        <linearGradient x1="50%" y1="2.0567602%" x2="50%" y2="100%" id="linearGradient-11">
+            <stop stop-color="#000000" offset="0%"></stop>
+            <stop stop-color="#9A9A9A" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="50%" x2="50%" y2="0%" id="linearGradient-12">
+            <stop stop-color="#000000" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="20.7927981%" x2="50%" y2="100%" id="linearGradient-13">
+            <stop stop-color="#FFFFFF" stop-opacity="-0.0636196476" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-14" d="M312.5,352 C289.781553,352 258.4375,351.444445 252.5,350.333333 L252.5,347 L372.5,347 L372.5,350.333333 C366.5625,351.444445 335.218447,352 312.5,352 Z"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="minimalMacbook" sketch:type="MSArtboardGroup">
+            <g id="macbook" sketch:type="MSLayerGroup" transform="translate(18.000000, 9.000000)">
+                <path d="M625,350.625 C625,350.625 604.362477,359.105114 552.7726,359.105114 C552.7726,359.105114 380,360.625 312.5,360.625 C245,360.625 72.2273998,359.105114 72.2273998,359.105114 C20.6375233,359.105114 0,350.625 0,350.625 L625,350.625 Z" id="shadow" opacity="0.1" fill="white" filter="url(#filter-1)" sketch:type="MSShapeGroup"></path>
+                <g id="top">
+                    <use stroke="url(#linearGradient-3)" stroke-width="2" fill="#E2E0E0" sketch:type="MSShapeGroup" xlink:href="#path-4"></use>
+                    <use stroke="none" fill-opacity="0.149999991" fill="url(#linearGradient-2)" xlink:href="#path-4"></use>
+                </g>
+                <mask id="mask-6" sketch:name="screen" fill="white">
+                    <use xlink:href="#path-5"></use>
+                </mask>
+                <use id="screen" fill="#EFEFEF" sketch:type="MSShapeGroup" xlink:href="#path-5"></use>
+                <path d="M625.5,349 C625.5,349 604.862477,359.176136 553.5,358.6 C553.2726,359.176136 380.5,361 313.5,361 C245.5,361 72.7273998,359.176136 72.5,358.6 C21.1375233,359.176136 0.5,349 0.5,349 L625.5,349 Z" id="bottom" fill="url(#linearGradient-7)" sketch:type="MSShapeGroup"></path>
+                <g id="bottomfront" filter="url(#filter-9)">
+                    <use fill="#F3F3F3" sketch:type="MSShapeGroup" xlink:href="#path-10"></use>
+                    <use fill-opacity="0.02" fill="url(#linearGradient-8)" xlink:href="#path-10"></use>
+                </g>
+                <g id="shadows">
+                    <use fill="#FAFAFA" sketch:type="MSShapeGroup" xlink:href="#path-14"></use>
+                    <use fill-opacity="0.03" fill="url(#linearGradient-11)" xlink:href="#path-14"></use>
+                    <use fill-opacity="0.04" fill="url(#linearGradient-12)" xlink:href="#path-14"></use>
+                    <use fill-opacity="0.3" fill="url(#linearGradient-13)" xlink:href="#path-14"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
